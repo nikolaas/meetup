@@ -1,21 +1,18 @@
 {
-  "name": "react-hot-starter",
+  "name": "meetup",
   "version": "1.0.0",
-  "description": "Starter for react projects with support of hot reloading",
+  "description": "Landing page of meetup",
   "keywords": [
-    "starter",
+    "landing",
+    "meetup",
     "reactjs",
-    "hot-reload",
-    "test",
-    "jest",
-    "enzyme",
-    "webpack"
+    "styled-components",
   ],
   "license": "ISC",
-  "homepage": "https://github.com/nikolaas/react-hot-reload-starter",
+  "homepage": "https://github.com/nikolaas/meetup",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nikolaas/react-hot-reload-starter.git"
+    "url": "https://github.com/nikolaas/meetup.git"
   },
   "author": {
     "name": "Nikolay Stupak",
